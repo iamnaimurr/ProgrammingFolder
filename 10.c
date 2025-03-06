@@ -12,7 +12,7 @@ int main()
         {60, -1, -1},
         {70, -1, -1},
         {10, -1, -1}};
-    printf("-------| Pre-order Traversal |-------\n\n");
+    printf("-------| Pre-order Traversal    |-------\n\n");
     int stack[100];
     int top = -1;
     int i = 0;
